@@ -1,0 +1,13 @@
+
+# pixi environments
+.pixi
+*.egg-info
+**/checkpoints/
+**/mlruns/
+mlartifacts/
+**/mlartifacts/
+**/*.DS_Store
+**/data/
+**/__pycache__/
+**/SpeechCommands/
+**/undefined-pycharm-support-libs/
